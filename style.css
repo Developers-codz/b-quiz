@@ -154,6 +154,14 @@ footer {
     grid-template-areas: "left" "right";
   }
   .card-category {
-    margin: 1rem 0rem;
+    margin: 1rem 0;
+  }
+  .badge-container {
+    margin-right: 0.4rem;
+  }
+  .badge-container > i,
+  .badge-container > a > i {
+    padding: 0.5rem 0.5rem;
+    margin-left: 0.6em;
   }
 }
