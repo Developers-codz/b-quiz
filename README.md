@@ -27,8 +27,6 @@ This repository is all about how I made this website. It has all the codes.
 1. Have Dark and light mode
 1.  Beautiful animations and Gif
 
-## Live Demo
-
 
 
 ## Connect
