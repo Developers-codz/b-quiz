@@ -1,6 +1,6 @@
 <div align="center">
 
-# Beads&Beyonds 
+# B-Quiz
 
 B-Quiz is a Quiz website focused on Art and Craft theme build mainly with:
 
