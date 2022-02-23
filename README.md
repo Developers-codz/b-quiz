@@ -14,6 +14,10 @@ B-Quiz is a Quiz website focused on Art and Craft theme build mainly with:
 
 ## About
 
+
+
+
+
 This repository is all about how I made this website. It has all the codes.
 
 ## Visit the website here
@@ -29,7 +33,7 @@ This repository is all about how I made this website. It has all the codes.
 
 ## Live Demo
 
-
+https://user-images.githubusercontent.com/50793296/154933833-440fc3c0-aeec-4ab9-a4ec-c854de2d6cbc.mp4
 
 ## Connect
 <a href="https://twitter.com/Kajal3310"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
