@@ -7,12 +7,12 @@
   padding-top: 1.5rem;
   color: var(--text-color);
 }
-ul {
-  list-style: none;
+.heading > ul {
   text-align: left;
   margin: 0 0 1rem 6rem;
 }
 li {
+  list-style: none;
   padding: 1rem;
   font-size: 1.3rem;
   color: var(--text-color);
